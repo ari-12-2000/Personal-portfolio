@@ -14,12 +14,13 @@ const projects = [
   {
     title:"Advanced Responsive Weather App",
     description:"Showing all cities using opendatasoft API, in a table format with infinite scroll feature. The table has columns city name, country, time zone, etc. and clicking on each city row, navigates to the weather page for that particular city. Implemented weather details via openweathermap api",
+    getImageSrc: "/images/photo6.jpg",
     link:"https://advancedresponsiveweatherapp.netlify.app/"
   },
   {
     title: "E-Commerce Web App",
     description:"E-commerce web application using React JS, node JS and Express JS. Contains features like adding and removing products from bag and displaying them. Displaying the total amount to pay as items are added to bag, displaying variety of products according to category.",
-    getImageSrc: "/images/photo6.jpg",
+    getImageSrc: "/images/photo2.jpg",
     link: "https://webapp-e-commerce.netlify.app/",
   },
   {
